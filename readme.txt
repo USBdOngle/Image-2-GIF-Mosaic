@@ -23,4 +23,4 @@ Usage:
 Samples:
     https://www44.zippyshare.com/v/6dJSJADk/file.html
     https://www26.zippyshare.com/v/75IKwZMH/file.html
- 	https://www58.zippyshare.com/v/31ecmp95/file.html
+    https://www58.zippyshare.com/v/31ecmp95/file.html
